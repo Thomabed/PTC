@@ -8,7 +8,7 @@
  */
 export const questions = [
     {
-        question: "Which one is used for cutting Text",
+        question: "Which one is used for cutting Text?",
         answers: [
             "Scissors",
             "Ctrl+Shift+V",
